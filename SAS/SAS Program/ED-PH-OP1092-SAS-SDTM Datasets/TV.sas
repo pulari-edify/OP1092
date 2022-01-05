@@ -958,6 +958,7 @@ if VISIT='EOS' and ARM = 'Placebo-Placebo 80mg' and ARMCD = 'P-P80' then do;
 end;
 run;
 
+
 /*Final dataset*/
 
  data SDTM.TV(label= "Trial Arms");
