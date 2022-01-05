@@ -244,7 +244,7 @@ run;
 			ELEMENT= 'Placebo-Placebo 20mg (Fast)';
 			ETCD = 'P-P20FS';
 			EPOCH= 'TREATMENT';
-			TABRANCH= 'Randomized to Placebo-Placebo 20mg,';
+			TABRANCH= 'Randomized to Placebo-Placebo 20mg';
  end;
 
   if ARM = 'Placebo-Placebo 20mg' and ARMCD = 'P-P20' and TAETORD = 4 then do;
